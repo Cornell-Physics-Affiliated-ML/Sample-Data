@@ -1,7 +1,1 @@
-"# Sample-Data" 
-"# Sample-Data" 
-"# Sample-Data" 
-"# Sample-Data" 
-"# Sample-Data" 
-"# Sample-Data" 
-"# Sample-Data" 
+This repository will contain machine learning data for anyone to use.
